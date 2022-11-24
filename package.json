@@ -1,0 +1,27 @@
+{
+  "name": "my-vscode-personal-theme",
+  "displayName": "my-vscode-personal-theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "Demon",
+    "Jmenabc"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Demon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Demon-color-theme.json"
+      }
+    ]
+  }
+}
